@@ -16,55 +16,13 @@
   position:absolute;
   z-index:0;
 }
-#u645_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:128px;
-  height:37px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
-  font-weight:700;
-  font-style:normal;
-}
-#u645 {
-  border-width:0px;
-  position:absolute;
-  left:11px;
-  top:10px;
-  width:128px;
-  height:37px;
-  display:flex;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
-  font-weight:700;
-  font-style:normal;
-}
-#u645 .text {
-  position:absolute;
-  align-self:flex-start;
-  padding:0px 0px 0px 0px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u645_text {
-  border-width:0px;
-  white-space:nowrap;
-  text-transform:none;
-}
 #u646_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:270px;
-  height:21px;
+  width:128px;
+  height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -80,9 +38,9 @@
   border-width:0px;
   position:absolute;
   left:11px;
-  top:60px;
-  width:270px;
-  height:21px;
+  top:10px;
+  width:128px;
+  height:37px;
   display:flex;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-weight:700;
@@ -105,6 +63,48 @@
   position:absolute;
   left:0px;
   top:0px;
+  width:270px;
+  height:21px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+}
+#u647 {
+  border-width:0px;
+  position:absolute;
+  left:11px;
+  top:60px;
+  width:270px;
+  height:21px;
+  display:flex;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+}
+#u647 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u647_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u648_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
   width:281px;
   height:500px;
   background:inherit;
@@ -118,43 +118,13 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u647 {
+#u648 {
   border-width:0px;
   position:absolute;
   left:11px;
   top:98px;
   width:281px;
   height:500px;
-  display:flex;
-}
-#u647 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u647_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u648_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:200px;
-  height:241px;
-}
-#u648 {
-  border-width:0px;
-  position:absolute;
-  left:52px;
-  top:142px;
-  width:200px;
-  height:241px;
   display:flex;
 }
 #u648 .text {
@@ -176,15 +146,15 @@
   left:0px;
   top:0px;
   width:200px;
-  height:171px;
+  height:241px;
 }
 #u649 {
   border-width:0px;
   position:absolute;
   left:52px;
-  top:383px;
+  top:142px;
   width:200px;
-  height:171px;
+  height:241px;
   display:flex;
 }
 #u649 .text {
@@ -200,7 +170,37 @@
   text-transform:none;
   visibility:hidden;
 }
-#u650_div {
+#u650_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:171px;
+}
+#u650 {
+  border-width:0px;
+  position:absolute;
+  left:52px;
+  top:383px;
+  width:200px;
+  height:171px;
+  display:flex;
+}
+#u650 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u650_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u651_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -215,7 +215,7 @@
   -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
   box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
 }
-#u650 {
+#u651 {
   border-width:0px;
   position:absolute;
   left:338px;
@@ -224,14 +224,14 @@
   height:128px;
   display:flex;
 }
-#u650 .text {
+#u651 .text {
   position:absolute;
   align-self:flex-start;
   padding:10px 10px 10px 10px;
   box-sizing:border-box;
   width:100%;
 }
-#u650_text {
+#u651_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
