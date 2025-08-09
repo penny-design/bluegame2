@@ -1,0 +1,7 @@
+﻿$axure.loadCurrentPage(
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,c,d,e,f,_(g,h,i,_(j,k,l,k)),m,[],n,_(h,o),p,[q],r,_(s,t,u,v,g,w,x,_(y,z),A,[],B,_(C,D,E,F,G,_(H,I,J,K),L,null,M,_(N,F,O,F),P,Q,R,null,S,T,U,V,W,X,Y,T,Z,ba,bb,_(H,I,J,bc),bd,T,be,ba,bf,_(bg,bh,bi,bj,bk,bj,bl,bj,bm,k,J,_(bn,bo,bp,bo,bq,bo,br,bs)),i,_(j,k,l,k)),bt,_(),bu,_(),bv,_(bw,[])),bx,_(),by,_());}; 
+var b="url",c="页面_1.html",d="generationDate",e=new Date(1754724319146.02),f="defaultAdaptiveView",g="name",h="",i="size",j="width",k=0,l="height",m="adaptiveViews",n="sketchKeys",o="s0",p="variables",q="OnLoadVariable",r="page",s="packageId",t="4018d7ac817e48dc8aa65a8bd09e0a20",u="type",v="Axure:Page",w="页面 1",x="notes",y="说明",z="<p><span>an </span></p>",A="annotations",B="style",C="baseStyle",D="627587b6038d43cca051c114ac41ad32",E="pageAlignment",F="near",G="fill",H="fillType",I="solid",J="color",K=0xFFFFFFFF,L="image",M="imageAlignment",N="horizontal",O="vertical",P="imageRepeat",Q="auto",R="favicon",S="sketchFactor",T="0",U="colorStyle",V="appliedColor",W="fontName",X="Applied Font",Y="borderWidth",Z="borderVisibility",ba="all",bb="borderFill",bc=0xFF797979,bd="cornerRadius",be="cornerVisibility",bf="outerShadow",bg="on",bh=false,bi="offsetX",bj=5,bk="offsetY",bl="blurRadius",bm="spread",bn="r",bo=0,bp="g",bq="b",br="a",bs=0.349019607843137,bt="adaptiveStyles",bu="interactionMap",bv="diagram",bw="objects",bx="masters",by="objectPaths";
+return _creator();
+})());
